@@ -1,6 +1,6 @@
 
 
-![Aviyelverse](https://user-images.githubusercontent.com/37651620/150901562-049bb2d4-53b7-4b1d-805d-ff22495d413c.png)
+![Aviyelverse](https://user-images.githubusercontent.com/37651620/150911625-28a5ed81-a4ee-4a03-b4f2-e14c44c01cce.png)
 
 
 ## Join US ! 
