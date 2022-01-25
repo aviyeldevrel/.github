@@ -15,4 +15,4 @@ Visit [aviyel.com](https://aviyel.com/discussions) to learn more about us !
 
 ----
 
-Aviyel is commited to get open source projects traction from developers around the world to adopt and maintain them. [Learn more about aviyel](https://aviyel.com/about). Want to add your project to our platform ? [Onboard project?](https://aviyel.com/projects).
+Aviyel is commited to get open source projects traction from developers around the world to adopt and maintain them. [Learn more about aviyel](https://aviyel.com/about). Want to add your project to our platform ? [Onboard project](https://aviyel.com/projects). If you have any queries, please email us at [hello@aviyel.com](mailto:hello@aviyel.com) .
