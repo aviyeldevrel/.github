@@ -5,16 +5,16 @@
 
 ## Join US ! 
 
-Aviyel is a community platform that helps open source project communities to monetize and sustain themselves in the long run.
+Aviyel is a community-driven, open source monetization platform that helps project communities sustain themselves in the long run.
 
-* [Explore Onboarded projects](https://aviyel.com/projects)
-* [Subscribe to our Newsletter](https://aviyel-newsletter.netlify.app/)
+* [Explore onboarded projects](https://aviyel.com/projects)
+* [Subscribe to our newsletter](https://aviyel-newsletter.netlify.app/)
 * [Follow us on Twitter](https://twitter.com/AviyelHq)
 
-Visit [aviyel.com](https://aviyel.com/discussions) to learn more about us !
+To know more, checkout our latest endeavours on [Aviyel](https://aviyel.com/discussions). 
 
-Aviyel is commited to get open source projects traction from developers around the world to adopt and maintain them. 
-[Learn more about aviyel](https://aviyel.com/about). Want to add your open source project to our platform ? ([Onboard project](https://aviyel.com/projects))
+
+Aviyel is commited to build open source from scratch and fetch traction from developers to adopt and maintain them. Want to add your open source brainchild to our platform? Learn more about onboarding projects on [Aviyel](https://aviyel.com/projects).
 
 ---
 
