@@ -16,11 +16,6 @@ To know more, checkout our latest endeavours on [Aviyel](https://aviyel.com/disc
 
 Aviyel is commited to build open source from scratch and fetch traction from developers to adopt and maintain them. Want to add your open source brainchild to our platform? Learn more about onboarding projects on [Aviyel](https://aviyel.com/projects).
 
----
-
-<sub> If you have any queries, please email us at [hello@aviyel.com](mailto:hello@aviyel.com) .</sub>
-
-
 ## Launching aviyelverse Rewards
  Contributed to aviyelverse? Here is a big thank you from our community to you.
  Claim your badge and showcase them with pride.
@@ -28,3 +23,7 @@ Aviyel is commited to build open source from scratch and fetch traction from dev
 
  ![aviyelverse Badges](https://aviyel.com/assets/uploads/rewards/share/project/54/512/share.png)
  ### **[Claim Now!](https://aviyel.com/projects/54/aviyelverse/rewards)**
+
+---
+
+<sub> If you have any queries, please email us at [hello@aviyel.com](mailto:hello@aviyel.com) .</sub>
