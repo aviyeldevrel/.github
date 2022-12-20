@@ -27,3 +27,4 @@ Aviyel is commited to build open source from scratch and fetch traction from dev
 ---
 
 <sub> If you have any queries, please email us at [hello@aviyel.com](mailto:hello@aviyel.com) .</sub>
+<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=829639e5-ee8b-4b83-81ad-4e5d8e50a48b" />
